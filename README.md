@@ -14,7 +14,7 @@ _Major: Artificial Intelligence | Minor: Financial Technology_
 ---
 
 ### Academic & Leadership Experience
-- Courses: Programming for Analytics, Data Structures, Intro to AI, Intro to Statistics
+- Courses: Programming for Analytics, Data Structures, Intro to AI, Intro to Statistics, Applied AI, Applications of Deep Learning, Predictive Analytics
 - **Trojan Go Leader**: Guided first-year students through their first weeks of college
 - **Private Tutor**: Science & Computer (High School), All Subjects (Middle School)
 - **Volunteer Tutor** at NECO Orphanage: Taught crash courses in computers & coding
