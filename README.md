@@ -7,7 +7,7 @@ _Major: Artificial Intelligence | Minor: Financial Technology_
 
 ### About Me
 - Passionate about **automation**, **predictive analysis**, and all things **data**.
-- Fascinated by **physics** and **aviation**.
+- Fascinated by **physics**, **economics**, and **aviation**.
 - Enjoy sports: **basketball**, **lifting**, and **running**.
 - Love giving back: I organize fundraisers for general causes.
 
