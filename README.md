@@ -1,7 +1,7 @@
 # Hi, I'm Prashun Kafle
 
 **Student at Dakota State University**  
-_Major: Artificial Intelligence | Minor: Financial Technology_
+_Major: Artificial Intelligence | Minor: Financial Technology , Applied Mathematics_
 
 ---
 
